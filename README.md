@@ -1,4 +1,4 @@
-# Gramática dependientes del contexto usando Earley Parser
+# Gramática dependiente del contexto usando Earley Parser
 
 _Compilar el archivo **main.cpp**_
 
